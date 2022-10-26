@@ -1,0 +1,24 @@
+{
+  "entities": [
+    {
+      "id": 1,
+      "naziv": "StrucniNaziv1"
+    },
+    {
+      "id": 2,
+      "naziv": "StrucniNaziv2"
+    },
+    {
+      "id": 3,
+      "naziv": "StrucniNaziv3"
+    },
+    {
+      "id": 4,
+      "naziv": "StrucniNaziv4"
+    },
+    {
+      "id": 5,
+      "naziv": "StrucniNaziv5"
+    }
+  ]
+}
